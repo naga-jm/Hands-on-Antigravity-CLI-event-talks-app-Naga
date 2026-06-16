@@ -24,4 +24,5 @@ pip install -r requirements.txt
 ```bash
 python3 app.py
 ```
-Open [http://127.0.0.1:5001](http://127.0.0.1:5001) in your browser.
+After starting the server, open the local address displayed in the terminal output in your browser to view the application.
+
