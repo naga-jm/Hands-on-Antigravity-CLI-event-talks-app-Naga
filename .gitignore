@@ -1,0 +1,20 @@
+# Python virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Python caching
+__pycache__/
+*.py[cod]
+*$py.class
+
+# OS / IDE files
+.DS_Store
+.vscode/
+.idea/
+
+# Local text or data logs
+*.log
+news.txt
+summary.txt
